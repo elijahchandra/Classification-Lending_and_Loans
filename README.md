@@ -1,6 +1,7 @@
 This exercise accomplishes the following tasks:
 
 1. Resampling 
+   
    Using the imbalanced learn library, it resamples the LendingClub data and build and evaluate logistic regression classifiers using the resampled data.
     
     a. Spliting the data into Training and Testing sets.
@@ -26,6 +27,7 @@ This exercise accomplishes the following tasks:
        iv.  Printing the imbalanced classification report from imblearn.metrics.
        
 2.  Ensemble Learning
+    
     This section trains and compares two different ensemble classifiers to predict loan risk and evaluate the given models through the Balanced Random Forest Classifier and the Easy Ensemble Classifier.
      
      a. Spliting the data into Training and Testing sets.

@@ -39,4 +39,3 @@ This exercise accomplishes the following tasks:
         ii.  Calculating the balanced accuracy score from sklearn.metrics.
         iii. Displays the confusion matrix from sklearn.metrics.
         iv.  Generates a classification report using the imbalanced_classification_report from imbalanced learn.
-
